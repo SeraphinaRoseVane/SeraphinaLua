@@ -30,7 +30,7 @@ local function getSeraphinaGuiParent()
 end
 local GUIPARENT = getSeraphinaGuiParent()
 
-local SERAPHINA_REJOIN_URL = "RawLink"
+local SERAPHINA_REJOIN_URL = "raw.githubusercontent.com/SeraphinaRoseVane/SeraphinaLua/refs/heads/main/Script1"
 local SERAPHINA_FILENAME   = "Seraphina_Rose.lua"
 
 local function getQueueOnTeleport()
